@@ -83,6 +83,8 @@ const arcadeConfig = ArcadeConfig(
   fallDown: false,
   tip1Id: 'ticktocktumblewaffle',
   tip2Id: 'ticktocktumblepopcorn',
-  tip1Label: '💛 Buy me a waffle',
-  tip2Label: '💛 Buy me a popcorn',
+  tip1Label: '💛 Buy me a waffle for Tick Tock Tumble',
+
+  tip2Label: '💛 Buy me a popcorn for Tick Tock Tumble',
+
 );
